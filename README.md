@@ -12,3 +12,6 @@ undefined
 undefined  
 > circleArea(4);  
 50.26548245743669  
+
+Konsol Çıktısı: 
+![git ödev](https://github.com/furkan-A/nodejs-repl/blob/main/circle_area.jpg)
